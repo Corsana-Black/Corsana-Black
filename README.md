@@ -6,7 +6,7 @@
 Este README é um reflexo de meu amor incondicional pela tecnologia e minha jornada contínua de aprendizado. Aqui estão algumas das tecnologias que fazem parte da minha jornada rumo a fazer parte da "Historia Tecnologica": HTML, CSS, JavaScript, Git, AWS Practitioner. Além disso, aqui contem um dashboard para acompanhar minha evolução em cada área, especialmente no campo das soft skills.
 . 🚀
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edsoncorsana&color=yellow" alt="Profile views" /> </p>
  
 - 👨🏾‍🎓 Também Cursando BootCamps na [Digital Innovation One]
 - 👨🏾‍🎓 Também Cursando na Plataforma [Alura]
