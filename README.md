@@ -1,5 +1,5 @@
 
-# 👋 Olá, eu sou o Edson!
+# <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Edson!
 
 > # "A cada código, uma história se escreve." - Linus Torvalds
 
@@ -32,27 +32,18 @@ Este README é um reflexo de meu amor incondicional pela tecnologia e minha jorn
 
 ## 📊 Minha evolução
 
-# Edson Corsana
-
-<div align="center">
-  
-  <!-- Estatísticas do GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=EdsonCorsana&show_icons=true&theme=tokyonight&border_color=00ffff&border_radius=10" width="49%" />  
-
-<!-- Linguagens Mais Usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonCorsana&layout=compact&theme=tokyonight&border_color=00ffff&border_radius=10" width="49%" />
-
-</div>
+![Metrics](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ## 🚀 Dashboard de Progresso
 
 
 
+
+
 📫 Entre em contato: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edsoncorsana)
  ou [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:edsoncorsana@gmail.com)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?style=flat&logo=amazonaws)
-
 
 
 
