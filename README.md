@@ -1,15 +1,11 @@
 
+# 👋 Olá, eu sou o Edson!
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Corsana-Black/4af958a2380bd1b56cffdbb0de766d7d/raw/0470a639fe8f910ab6809bf3e1a6a06148cde0ee/GitHubCard.svg"/>
-<h1 align="left">Oi, Eu sou o Edson Corsana </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Corsana-Black&color=yellow" alt="Profile views" /> </p>
+> # "A cada código, uma história se escreve." - Linus Torvalds
 
-- 🔥 Desenvolvedor Web em constante evolução 
-- <div align="center">
-  <a href="https://github.com/Corsana-Black">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Corsana-Black&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corsana-Black&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+Este README é um reflexo de meu amor incondicional pela tecnologia e minha jornada contínua de aprendizado. Aqui estão algumas das tecnologias que fazem parte da minha jornada rumo a fazer parte da "Historia Tecnologica": HTML, CSS, JavaScript, Git, AWS Practitioner. Além disso, aqui contem um dashboard para acompanhar minha evolução em cada área, especialmente no campo das soft skills.
+. 🚀
+
 
  
 - 👨🏾‍🎓 Também Cursando BootCamps na [Digital Innovation One]
@@ -17,11 +13,12 @@
 - 👨🏾‍🎓 Também Cursando na Plataforma [Coursera]
 
 
-- Aprendendo e amando muito esse mundo dessas tecnologias, HTML, CSS, JS, 
+- Aprendendo e amando muito esse mundo dessas tecnologias:
 
-- ⚡ Fun fact **Oneye 😜**
+  🧮 **Data Analytics** | 🖥 **Web Developer** |☁️ **AWS Cloud Practitioner**
 
-<br><br>
+
+
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -30,6 +27,33 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?style=flat&logo=amazonaws)
+
+
+## 📊 Minha evolução
+
+# Edson Corsana
+
+<div align="center">
+  
+  <!-- Estatísticas do GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=EdsonCorsana&show_icons=true&theme=tokyonight&border_color=00ffff&border_radius=10" width="49%" />  
+
+<!-- Linguagens Mais Usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonCorsana&layout=compact&theme=tokyonight&border_color=00ffff&border_radius=10" width="49%" />
+
+</div>
+
+## 🚀 Dashboard de Progresso
+
+
+
+📫 Entre em contato: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edsoncorsana)
+ ou [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:edsoncorsana@gmail.com)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?style=flat&logo=amazonaws)
+
+
 
 
 
